@@ -1,0 +1,1 @@
+Install radioconda 2024.05.29 (64-bit) from https://github.com/ryanvolz/radioconda. You can follow the steps introduced in https://blog.csdn.net/m0_55620595/article/details/146007528, see "GNU Radio3.8及以上版本".
