@@ -69,11 +69,12 @@ python RobustVisH/model_test.py
 ## 📜 Citation
 If you find this work useful, please cite our preprint:
 ```bibtex
-@article{RobustVisH2025,
+@inproceedings{RobustVisH2025,
   title={RobustVisH: Robust Visual-Haptic Cross-Modal Recognition Under Transmission Interference},
-  author={Rouqi Zhang, Chengdi Lu, Hancheng Lu, Yang Cao, and Tiesong Zhao.},
-  journal={2025 ACM Multimedia},
-  year={2025}
+  author={Zhang, Rouqi and Lu, Chengdi and Lu, Hancheng and Cao, Yang and Zhao, Tiesong},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia (MM'25)},
+  year={2025},
+  url={https://openreview.net/forum?id=v1v7zRmL3o}
 }
 ```
 
