@@ -86,9 +86,9 @@ keywords = {covariate shift, embodied ai, gnu radio, industrial intelligence, ki
 location = {Dublin, Ireland},
 series = {MM '25}
 }
-}
 ```
 
 ## ⚠️ Important Notes
 **Hardware Requirements**: Recommended NVIDIA RTX2080Ti or better GPU for training.
+
 
